@@ -5,7 +5,7 @@
 <br />
 <h1 align="center">TurkOsint</h1>
 
-TurkOsint, İstihbarat ve Osint Topluluğu. İlk olarak @EyupErgin tarafından 2020 yılında temelleri atılan bu proje 2021 yılında tam anlamıyla hayata geçti. 
+TurkOsint, İstihbarat ve Osint Topluluğu. İlk olarak [@EyupErgin](https://github.com/EyupErgin) tarafından 2020 yılında temelleri atılan bu proje 2021 yılında tam anlamıyla hayata geçti. 
 TurkOsint projesi, Türkiye odaklı olmak üzere Uluslararası çapta 'İstihbarat', 'Bilgi Toplama' ve 'Analiz' üzerine yazılımsal projeler üreterek bunları halka açık olarak kullanıma sunmak ve insanların faydalanması için oluşturuldu. 
 
 <br />
