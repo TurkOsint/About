@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TurkOsint/About/blob/main/image/TurkOsint50.png?raw=true" alt="TurkOsint" width="250" />
+  <img src="https://raw.githubusercontent.com/IntelSights/About/main/img/IntelSights.png" alt="IntelSigths" width="250" />
 </p>
 <br />
 <br />
